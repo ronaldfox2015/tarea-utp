@@ -1,0 +1,25 @@
+.center{
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    background-color: red;
+    width: 200px;
+    padding: 20px;
+}
+
+
+#divPadre {
+    width:100%;
+     text-align:center;
+    background-color:blue;
+}
+#divHijo {
+    height:100%;
+    width:400px;
+     margin:0px auto;
+    background-color:red;
+}
+.button{
+    margin-left: 300px
+}
